@@ -52,7 +52,3 @@ iptables -L
 arp -a
 route -n
 ```
-
-
-
-```
