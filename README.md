@@ -8,6 +8,7 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 * [Operating System](#operatingsystem)
 * [Networking](#network)
 * [Services](#services)
+* [Environment Variables](#environmentvar)
 
 
 
@@ -65,4 +66,16 @@ ps -u root
 ps -u $USER
 cat /etc/services
 ps aux | grep root
+```
+
+## Environment variables
+
+```bash
+env
+set
+cat ~/.zshrc
+cat ~/.bashrc
+cat /etc/profile
+cat ~/.bash_logout 
+cat /etc/bash.bashrc
 ```
