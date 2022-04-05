@@ -53,6 +53,8 @@ route -n
 iptables -L
 netstat -anotp
 cat /etc/networks 
+cat /etc/resolv.conf
+
 
 ```
 ## Services
