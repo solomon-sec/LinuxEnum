@@ -14,7 +14,8 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 
 
 ## User Enumeration
-```sh
+
+```bash
 finger
 whoami
 uname -a
@@ -27,7 +28,8 @@ for user in $(awk -F ':' '{print $1}' /etc/passwd); do finger $user;done |grep S
 ```
 
 ## Operating System
-```sh
+
+```bash
 uname -a
 lsb_release -a
 cat /etc/issue  
@@ -38,7 +40,8 @@ dmesg | grep linux
 
 
 ## Networking
-```sh
+
+```bash
 ifconfig
 ip addr
 ip link
