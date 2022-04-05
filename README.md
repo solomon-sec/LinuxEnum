@@ -59,6 +59,9 @@ route -n
 ps
 top
 ps aux
+ps auxwww
+ps -u root
+ps -u $USER
 cat /etc/services
 ps aux | grep root
 ```
