@@ -56,6 +56,7 @@ route -n
 ## Services
 
 ```bash
+ps
 top
 ps aux
 cat /etc/services
