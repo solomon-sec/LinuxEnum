@@ -43,15 +43,16 @@ dmesg | grep linux
 ## Networking
 
 ```bash
-ifconfig
+arp -a
 ip addr
 ip link
-cat /etc/networks 
+ifconfig
 hostname
-netstat -anotp
-iptables -L
-arp -a
 route -n
+iptables -L
+netstat -anotp
+cat /etc/networks 
+
 ```
 ## Services
 
