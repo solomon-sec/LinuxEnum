@@ -15,7 +15,8 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 ```sh
 whoami
 uname -a
-id $whoami
 groups
+id $whoami
+groups $whoami
 for user in $(awk -F ':' '{print $1}' /etc/passwd); do finger $user;done |grep Shell  2>/dev/null
 ```
