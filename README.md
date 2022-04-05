@@ -6,6 +6,7 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 
 * [User Enumeration](#userenumeration)
 * [Operating System](#operatingsystem)
+* [Network](#network)
 
 
 
