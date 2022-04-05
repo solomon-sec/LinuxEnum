@@ -8,7 +8,7 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 * [Operating System](#operatingsystem)
 * [Networking](#network)
 * [Services](#services)
-* [Environment Variables](#environmentvar)
+* [Environment Variables](#environment-var)
 
 
 
