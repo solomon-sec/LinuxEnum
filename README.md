@@ -4,9 +4,9 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 
 ## Summary
 
-* [User Enumeration](#userenumeration)
-* [Operating System](#operatingsystem)
-* [Networking](#network)
+* [User Enumeration](#user-enumeration)
+* [Operating System](#operating-system)
+* [Networking](#networking)
 * [Services](#services)
 * [Environment Variables](#environment-variables)
 
