@@ -1,5 +1,5 @@
 # LinuxEnum
-Welcome to the Linux Commands for Local Enumeration Cheat Sheet :computer:
+Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 
 
 ## Summary
