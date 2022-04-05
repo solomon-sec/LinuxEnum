@@ -6,7 +6,7 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 
 * [User Enumeration](#userenumeration)
 * [Operating System](#operatingsystem)
-* [Network](#network)
+* [Networking](#network)
 
 
 
@@ -34,4 +34,22 @@ cat /etc/issue
 cat /proc/version
 cat /etc/*-release
 dmesg | grep linux 
+```
+
+
+## Networking
+```sh
+ifconfig
+ip addr
+ip link
+cat /etc/networks 
+hostname
+netstat -anotp
+iptables -L
+arp -a
+route -n
+```
+
+
+
 ```
