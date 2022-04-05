@@ -7,6 +7,7 @@ Welcome to the Linux Commands for Local Enumeration Cheat Sheet
 * [User Enumeration](#userenumeration)
 * [Operating System](#operatingsystem)
 * [Networking](#network)
+* [Services](#services)
 
 
 
@@ -52,3 +53,8 @@ iptables -L
 arp -a
 route -n
 ```
+## Services
+top
+ps aux
+cat /etc/services
+ps aux | grep root
