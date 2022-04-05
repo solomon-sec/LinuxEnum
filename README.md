@@ -26,3 +26,11 @@ for user in $(awk -F ':' '{print $1}' /etc/passwd); do finger $user;done |grep S
 ```
 
 ## Operating System
+```sh
+uname -a
+lsb_release -a
+cat /etc/issue  
+cat /proc/version
+cat /etc/*-release
+dmesg | grep linux 
+```
