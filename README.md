@@ -54,7 +54,10 @@ arp -a
 route -n
 ```
 ## Services
+
+```bash
 top
 ps aux
 cat /etc/services
 ps aux | grep root
+```
